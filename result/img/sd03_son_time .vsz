@@ -1,0 +1,1229 @@
+# Veusz saved document (version 3.4)
+# Saved at 2022-05-31T12:15:31.234169
+
+SetCompatLevel(1)
+AddImportPath('D:\\masterDocument\\master_document\\networkProject\\LP_TE_MI\\result\\img')
+ImportString('x(numeric)','''
+1.000000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+5.000000e+00
+6.000000e+00
+7.000000e+00
+8.000000e+00
+9.000000e+00
+1.000000e+01
+1.100000e+01
+1.200000e+01
+1.300000e+01
+1.400000e+01
+1.500000e+01
+1.600000e+01
+1.700000e+01
+1.800000e+01
+1.900000e+01
+2.000000e+01
+2.100000e+01
+2.200000e+01
+2.300000e+01
+2.400000e+01
+2.500000e+01
+2.600000e+01
+2.700000e+01
+2.800000e+01
+2.900000e+01
+3.000000e+01
+''')
+ImportString('x_10(numeric)','''
+1.100000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+5.000000e+00
+6.000000e+00
+7.000000e+00
+8.000000e+00
+9.000000e+00
+1.000000e+01
+1.100000e+01
+1.200000e+01
+1.300000e+01
+1.400000e+01
+1.500000e+01
+1.600000e+01
+1.700000e+01
+1.800000e+01
+1.900000e+01
+2.000000e+01
+2.100000e+01
+2.200000e+01
+2.300000e+01
+2.400000e+01
+2.500000e+01
+2.600000e+01
+2.700000e+01
+2.800000e+01
+2.900000e+01
+3.000000e+01
+''')
+ImportString('x_4(numeric)','''
+1.100000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+5.000000e+00
+6.000000e+00
+7.000000e+00
+8.000000e+00
+9.000000e+00
+1.000000e+01
+1.100000e+01
+1.200000e+01
+1.300000e+01
+1.400000e+01
+1.500000e+01
+1.600000e+01
+1.700000e+01
+1.800000e+01
+1.900000e+01
+2.000000e+01
+2.100000e+01
+2.200000e+01
+2.300000e+01
+2.400000e+01
+2.500000e+01
+2.600000e+01
+2.700000e+01
+2.800000e+01
+2.900000e+01
+3.000000e+01
+''')
+ImportString('x_5_1_2(numeric)','''
+1.000000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+5.000000e+00
+6.000000e+00
+7.000000e+00
+8.000000e+00
+9.000000e+00
+1.000000e+01
+1.100000e+01
+1.210000e+01
+1.300000e+01
+1.400000e+01
+1.500000e+01
+1.600000e+01
+1.700000e+01
+1.800000e+01
+1.900000e+01
+2.000000e+01
+2.100000e+01
+2.200000e+01
+2.300000e+01
+2.400000e+01
+2.500000e+01
+2.600000e+01
+2.700000e+01
+2.800000e+01
+2.900000e+01
+3.000000e+01
+''')
+ImportString('x_5_1_3(numeric)','''
+1.000000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+5.000000e+00
+6.000000e+00
+7.000000e+00
+8.000000e+00
+9.000000e+00
+1.000000e+01
+1.100000e+01
+1.220000e+01
+1.300000e+01
+1.400000e+01
+1.500000e+01
+1.600000e+01
+1.700000e+01
+1.800000e+01
+1.900000e+01
+2.000000e+01
+2.100000e+01
+2.200000e+01
+2.300000e+01
+2.400000e+01
+2.500000e+01
+2.600000e+01
+2.700000e+01
+2.800000e+01
+2.900000e+01
+3.000000e+01
+''')
+ImportString('x_7(numeric)','''
+1.000000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+5.000000e+00
+6.000000e+00
+7.000000e+00
+8.000000e+00
+9.000000e+00
+1.000000e+01
+1.100000e+01
+1.200000e+01
+1.300000e+01
+1.400000e+01
+1.500000e+01
+1.600000e+01
+1.700000e+01
+1.800000e+01
+1.900000e+01
+2.000000e+01
+2.100000e+01
+2.200000e+01
+2.300000e+01
+2.400000e+01
+2.500000e+01
+2.600000e+01
+2.700000e+01
+2.800000e+01
+2.900000e+01
+3.000000e+01
+''')
+ImportString('x_7_2(numeric)','''
+1.100000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+5.000000e+00
+6.000000e+00
+7.000000e+00
+8.000000e+00
+9.000000e+00
+1.000000e+01
+1.100000e+01
+1.200000e+01
+1.300000e+01
+1.400000e+01
+1.500000e+01
+1.600000e+01
+1.700000e+01
+1.800000e+01
+1.900000e+01
+2.000000e+01
+2.100000e+01
+2.200000e+01
+2.300000e+01
+2.400000e+01
+2.500000e+01
+2.600000e+01
+2.700000e+01
+2.800000e+01
+2.900000e+01
+3.000000e+01
+''')
+ImportString('x_7_3(numeric)','''
+1.200000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+5.000000e+00
+6.000000e+00
+7.000000e+00
+8.000000e+00
+9.000000e+00
+1.000000e+01
+1.100000e+01
+1.200000e+01
+1.300000e+01
+1.400000e+01
+1.500000e+01
+1.600000e+01
+1.700000e+01
+1.800000e+01
+1.900000e+01
+2.000000e+01
+2.100000e+01
+2.200000e+01
+2.300000e+01
+2.400000e+01
+2.500000e+01
+2.600000e+01
+2.700000e+01
+2.800000e+01
+2.900000e+01
+3.000000e+01
+''')
+ImportString('x_7_3_2(numeric)','''
+1.300000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+5.000000e+00
+6.000000e+00
+7.000000e+00
+8.000000e+00
+9.000000e+00
+1.000000e+01
+1.100000e+01
+1.200000e+01
+1.300000e+01
+1.400000e+01
+1.500000e+01
+1.600000e+01
+1.700000e+01
+1.800000e+01
+1.900000e+01
+2.000000e+01
+2.100000e+01
+2.200000e+01
+2.300000e+01
+2.400000e+01
+2.500000e+01
+2.600000e+01
+2.700000e+01
+2.800000e+01
+2.900000e+01
+3.000000e+01
+''')
+ImportString('x_8(numeric)','''
+1.100000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+5.000000e+00
+6.000000e+00
+7.000000e+00
+8.000000e+00
+9.000000e+00
+1.000000e+01
+1.100000e+01
+1.200000e+01
+1.310000e+01
+1.400000e+01
+1.500000e+01
+1.600000e+01
+1.700000e+01
+1.800000e+01
+1.900000e+01
+2.000000e+01
+2.100000e+01
+2.200000e+01
+2.300000e+01
+2.400000e+01
+2.500000e+01
+2.600000e+01
+2.700000e+01
+2.800000e+01
+2.900000e+01
+3.000000e+01
+''')
+ImportString('x_8_2(numeric)','''
+1.200000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+5.000000e+00
+6.000000e+00
+7.000000e+00
+8.000000e+00
+9.000000e+00
+1.000000e+01
+1.100000e+01
+1.200000e+01
+1.320000e+01
+1.400000e+01
+1.500000e+01
+1.600000e+01
+1.700000e+01
+1.800000e+01
+1.900000e+01
+2.000000e+01
+2.100000e+01
+2.200000e+01
+2.300000e+01
+2.400000e+01
+2.500000e+01
+2.600000e+01
+2.700000e+01
+2.800000e+01
+2.900000e+01
+3.000000e+01
+''')
+ImportString('y(numeric)','''
+1.000000e+00
+1.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+1.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+''')
+ImportString('y_10(numeric)','''
+1.000000e+01
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+1.000000e+01
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+1.000000e+01
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+''')
+ImportString('y_2(numeric)','''
+0.000000e+00
+1.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+3.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+''')
+ImportString('y_3(numeric)','''
+2.000000e+00
+2.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+2.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+2.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+''')
+ImportString('y_4(numeric)','''
+4.000000e+00
+4.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+4.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+''')
+ImportString('y_5(numeric)','''
+5.000000e+00
+5.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+5.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+''')
+ImportString('y_6(numeric)','''
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+6.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+''')
+ImportString('y_7(numeric)','''
+7.000000e+00
+7.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+7.000000e+00
+7.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+''')
+ImportString('y_8(numeric)','''
+8.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+8.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+''')
+ImportString('y_9(numeric)','''
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+9.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+''')
+ImportString('yuan(numeric)','''
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+0.000000e+00
+''')
+Set('colorTheme', 'default-latest')
+Set('StyleSheet/axis-function/autoRange', 'next-tick')
+Add('page', name='page1', autoadd=False)
+To('page1')
+Set('width', '25.363cm')
+Set('height', '12.82cm')
+Set('Background/color', 'background')
+Set('Background/style', 'solid')
+Set('Background/hide', False)
+Set('Background/backcolor', 'background')
+Set('Background/backhide', True)
+Add('graph', name='graph1', autoadd=False)
+To('graph1')
+Set('hide', False)
+Set('leftMargin', '2cm')
+Set('rightMargin', '0.987cm')
+Set('topMargin', '0.517cm')
+Set('bottomMargin', '2cm')
+Set('Background/color', 'background')
+Set('Background/style', 'cross')
+Set('Background/hide', False)
+Set('Background/transparency', 1)
+Set('Background/linewidth', '0.25pt')
+Set('Background/linestyle', 'dash1')
+Set('Background/patternspacing', '34pt')
+Set('Background/backcolor', 'lightgrey')
+Set('Background/backtransparency', 0)
+Set('Background/backhide', True)
+Set('Border/hide', False)
+Add('axis', name='x', autoadd=False)
+To('x')
+Set('label', '时间/天')
+Set('min', 0.0)
+Set('max', 30.0)
+Set('mode', 'labels')
+Set('lowerPosition', 0.005)
+Set('Line/style', 'solid')
+Set('Label/color', '#000000')
+Set('Label/hide', False)
+Set('GridLines/color', 'lightgrey')
+Set('GridLines/width', '0.5pt')
+Set('GridLines/style', 'solid')
+Set('GridLines/hide', False)
+Set('GridLines/onTop', False)
+Set('MinorGridLines/hide', False)
+To('..')
+Add('axis', name='y', autoadd=False)
+To('y')
+Set('hide', False)
+Set('label', '用户编号')
+Set('min', 0.62)
+Set('max', 10.6)
+Set('log', False)
+Set('mode', 'numeric')
+Set('outerticks', False)
+Set('direction', 'vertical')
+Set('upperPosition', 0.998)
+Set('otherPosition', 0.0)
+Set('Line/hide', False)
+Set('Label/style', 'Bold Italic')
+Set('Label/hide', False)
+Set('Label/rotate', '0')
+Set('TickLabels/style', 'Bold')
+Set('TickLabels/hide', False)
+Set('TickLabels/rotate', '0')
+Set('TickLabels/format', 'U%VE')
+Set('MajorTicks/number', 10)
+Set('GridLines/color', 'lightgrey')
+Set('GridLines/style', 'solid')
+Set('GridLines/hide', False)
+To('..')
+Add('xy', name='xy1', autoadd=False)
+To('xy1')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('yData', 'y')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy2', autoadd=False)
+To('xy2')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('yData', 'y_2')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy3', autoadd=False)
+To('xy3')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('yData', 'y_3')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy4', autoadd=False)
+To('xy4')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('xData', 'x')
+Set('yData', 'y_4')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy4_1', autoadd=False)
+To('xy4_1')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('xData', 'x_4')
+Set('yData', 'y_4')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy5', autoadd=False)
+To('xy5')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('yData', 'y_5')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy5_1', autoadd=False)
+To('xy5_1')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('xData', 'x_5_1_2')
+Set('yData', 'y_5')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy5_2', autoadd=False)
+To('xy5_2')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('xData', 'x_5_1_3')
+Set('yData', 'y_5')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy6', autoadd=False)
+To('xy6')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('yData', 'y_6')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy7', autoadd=False)
+To('xy7')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('yData', 'y_7')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy7_1', autoadd=False)
+To('xy7_1')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('xData', 'x_7_2')
+Set('yData', 'y_7')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy7_2', autoadd=False)
+To('xy7_2')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('xData', 'x_7_3')
+Set('yData', 'y_7')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy7_3', autoadd=False)
+To('xy7_3')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('xData', 'x_7_3_2')
+Set('yData', 'y_7')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy9', autoadd=False)
+To('xy9')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('yData', 'y_9')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy8', autoadd=False)
+To('xy8')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('yData', 'y_8')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy8_1', autoadd=False)
+To('xy8_1')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('xData', 'x_8')
+Set('yData', 'y_8')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy8_2', autoadd=False)
+To('xy8_2')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('xData', 'x_8_2')
+Set('yData', 'y_8')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy10', autoadd=False)
+To('xy10')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('yData', 'y_10')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+Add('xy', name='xy10_1', autoadd=False)
+To('xy10_1')
+Set('marker', 'lineplus')
+Set('markerSize', '5pt')
+Set('color', 'gray')
+Set('thinfactor', 1)
+Set('xData', 'x_10')
+Set('yData', 'y_10')
+Set('hide', False)
+Set('labels', 'x')
+Set('scalePoints', [])
+Set('Color/points', [])
+Set('nanHandling', 'ignore')
+Set('errorStyle', 'none')
+Set('PlotLine/style', 'dot2')
+Set('PlotLine/hide', True)
+Set('MarkerLine/hide', False)
+Set('MarkerFill/hide', False)
+Set('ErrorBarLine/hide', False)
+Set('FillBelow/hide', True)
+Set('FillAbove/hide', True)
+Set('Label/posnHorz', 'centre')
+Set('Label/hide', True)
+To('..')
+To('..')
+To('..')
